@@ -6,4 +6,4 @@
 
 ### (3) <a href="https://github.com/ghahm/Azure-HDInsight-Spark-HOL">HDInsight Spark Hands on Lab</a>
 
-### (4) <a href="https://github.com/ghahm/Azure-Databricks-HOL-BASIC">Azure Databricks Hands on Lab</a>
+### (4) <a href="https://github.com/ghahm/Azure-Databricks-HOL-BASIC">Azure Databricks Hands on Lab (업데이트 필요)</a>
